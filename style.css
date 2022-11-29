@@ -1,0 +1,16 @@
+.row
+{
+    display: flex;
+    justify-content: center;
+}
+.first, .second, .third
+{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+h3
+{
+    text-align: center;
+}
